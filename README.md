@@ -35,3 +35,38 @@ Run the cells step by step to see clustering results.
 Hrushikesh Kanhaiya Pardeshi
 
 Capstone Project — Customer Segmentation with K-Means
+
+🧪 Practice: K-Means Clustering in Python
+This notebook serves as a hands-on exercise for understanding and applying K-Means clustering to synthetic or small datasets. It supports learning and experimenting with different clustering scenarios.
+🧾 Topics Practiced
+Generating or importing small datasets.
+
+Preprocessing for clustering.
+
+Using KMeans from sklearn.
+
+Visualizing clusters in 2D.
+
+Evaluating cluster separation.
+
+🛠️ Key Methods Demonstrated
+fit_predict() method of KMeans.
+
+Visual cluster mapping using matplotlib.
+
+Simple metrics or elbow method to find ideal k.
+
+📦 Dependencies
+bash
+Copy
+Edit
+pip install numpy pandas matplotlib seaborn scikit-learn
+▶️ How to Use
+Run practicesKmeans.ipynb in Jupyter.
+
+Follow the steps to understand how data gets grouped by the K-Means algorithm.
+
+🧑‍💻 Author
+Hrushikesh Kanhaiya Pardeshi
+
+Practice Notebook — K-Means Clustering Fundamentals
